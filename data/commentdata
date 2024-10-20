@@ -1,0 +1,29 @@
+const createcomments = async ()=> {
+    const comments =[
+{
+    body: 'comment by user 1',
+    author: userId1,
+    post: postId1,
+},
+{
+    body: 'comment by user 2',
+    author: userId2,
+    post: postId2,
+},
+{
+    body: 'comment by user 3',
+    author: userId3,
+    post: postId3,
+},
+{
+    body: 'comment by user 4',
+    author: userId4,
+    post: postId4,
+},
+{
+    body: 'comment by user 5',
+    author: userId5,
+    post: postId5,
+}
+
+    ]}
